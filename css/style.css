@@ -1,0 +1,26 @@
+*
+{
+    margin:0px auto;
+    padding:0px auto;
+
+}
+
+body{
+    width:100%;
+    margin:0px auto;
+    background-color: aqua;
+}
+h1
+{
+    text-align: center;
+    color:red;
+}
+p
+{
+    clear:both;
+    display:block;
+    overflow:hidden;
+    background-color: blueviolet;
+    color:#000;
+    font-size:18px;
+}
